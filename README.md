@@ -7,16 +7,26 @@ This project was for my final year project at the end of my Computer Science deg
 The main aim for this project was to design a web application that gamifies the act of betting and allowing users to track their progress. This is to create a competitive environment for users to encourage them to improve their methods and improve their personal success rate.
 
 My personal reasons for choosing this project were to:
+
 • Improve my knowledge of web applications and the process of designing and implementing one.
+
 • Apply what I have learned over the past 4 years of my degree to the project.
+
 • Improve my skills in Java and improve my knowledge of different libraries and functionalities I have not previously worked with.
 
+
 I learnt many different methods and tools during this project, including how to:
+
 • Create a Java web application using Servlet.
+
 • Create a working database that is connected to the Java project – queries ran from the Java application should show on the database.
+
 • Have a secure system that only allows registered users to access information.
+
 • Allow users to view current markets and place bets through their connected Betfair account.
+
 • Show users their personal statistics so they can track their own progress.
+
 • Implement a user leader board so users can track their success rate compared to others.
 
 ## Installation
