@@ -6,6 +6,10 @@ This project was for my final year project at the end of my Computer Science deg
 
 The main aim for this project was to design a web application that gamifies the act of betting and allowing users to track their progress. This is to create a competitive environment for users to encourage them to improve their methods and improve their personal success rate.
 
+![image](https://github.com/lucybonfield/Bet2Rank-App/assets/40248317/653d3a31-7a31-485c-bb8a-c57771a6f9fa)
+
+![image](https://github.com/lucybonfield/Bet2Rank-App/assets/40248317/f737562b-ea0e-4829-9b08-9ea819413ac8)
+
 ### My personal reasons for choosing this project were to:
 
 • Improve my knowledge of web applications and the process of designing and implementing one.
