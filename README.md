@@ -6,6 +6,8 @@ This project was for my final year project at the end of my Computer Science deg
 
 The main aim for this project was to design a web application that gamifies the act of betting and allowing users to track their progress. This is to create a competitive environment for users to encourage them to improve their methods and improve their personal success rate.
 
+My dissertation project write-up (research, methodologies, and process): https://drive.google.com/file/d/1uYSDATymom57dm_J-ED2CbcWhVR3ftfV/view?usp=share_link 
+
 ![image](https://github.com/lucybonfield/Bet2Rank-App/assets/40248317/653d3a31-7a31-485c-bb8a-c57771a6f9fa)
 
 ![image](https://github.com/lucybonfield/Bet2Rank-App/assets/40248317/f737562b-ea0e-4829-9b08-9ea819413ac8)
@@ -26,8 +28,6 @@ The main aim for this project was to design a web application that gamifies the 
 • Create a working database that is connected to the Java project – queries ran from the Java application should show on the database.
 
 • Have a secure system that only allows registered users to access information.
-
-• Allow users to view current markets and place bets through their connected Betfair account.
 
 • Show users their personal statistics so they can track their own progress.
 
